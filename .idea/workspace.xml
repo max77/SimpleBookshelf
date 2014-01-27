@@ -2,7 +2,9 @@
 <project version="4">
   <component name="AndroidLayoutPreviewToolWindow">
     <option name="state">
-      <GlobalState />
+      <GlobalState>
+        <option name="visible" value="false" />
+      </GlobalState>
     </option>
   </component>
   <component name="AndroidLayouts">
@@ -14,7 +16,153 @@
     <option name="TOOL_WINDOW_CUSTOM_FILTER" value="max77" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c91e06c3-ef91-4db9-9e00-9f742e8edfa3" name="Default" comment="" />
+    <list default="true" id="c91e06c3-ef91-4db9-9e00-9f742e8edfa3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/libs/GoogleAdMobAdsSdk-6.1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/action_item_selected.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/raw/afd.sqlite" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_backreadview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_bookbase.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_bookmark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_bookmark_yellow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_bookshelf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_bookshelf_border.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_bright.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_coverimg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_day.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_deletebg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_divide.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_drug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_edit_all.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_edit_allorang.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_edit_back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_edit_cancel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_edit_del.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_edit_selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_font_zoomin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_font_zoomout.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_fontsize.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_green_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_green_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_import_currenth3bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_import_h3bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_import_local.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_import_net.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_import_popuptabbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_import_titlebg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_import_wifi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_index_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_index_bg_image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_index_bookbase.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_index_edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_index_quit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_listbackground.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_night.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_prev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_quit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_setting.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_skip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_storemenu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_tablecontentsbtn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_topmenu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_tts.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_white_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_white_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/arrow_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/arrow_up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/default_video_poster.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/libs/epub_sdk.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/libs/epub_ui.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/ex_doc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/ex_folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/gplus_64.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-ldpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/libs/armeabi/libepubjni.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/libs/armeabi-v7a/libepubjni.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/libs/mips/libepubjni.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/libs/x86/libepubjni.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/popup.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/selection_handle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/twitter_bird_callout.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/ui/BookViewActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/gen/com/anfengde/epub/ui/BuildConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/EPUB_UI.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/gen/com/anfengde/epub/ui/Manifest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/gen/com/anfengde/epub/ui/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/action_item_btn.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/layout/action_item_horizontal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/layout/action_item_vertical.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/layout/afd_books_list.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/layout/afd_books_list_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/layout/afd_bookview.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/layout/afd_custom_screen.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/drawable-hdpi/afd_listview_shape.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/layout/afd_video_loading_progress.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/raw/androidselection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/raw/backpage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/bookview.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/values/colors.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/raw/control.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/anim/disappear.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/anim/grow_from_bottom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/anim/grow_from_bottomleft_to_topright.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/anim/grow_from_bottomright_to_topleft.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/anim/grow_from_top.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/anim/grow_from_topleft_to_bottomright.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/anim/grow_from_topright_to_bottomleft.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/layout/horiz_separator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/raw/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/raw/jdb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/raw/jindex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/raw/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/raw/jsetting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/raw/jtoc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/anim/left_in.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/anim/left_out.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/layout/main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/layout/popup_horizontal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/layout/popup_vertical.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/project.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/anim/pump_bottom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/anim/pump_top.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/anim/rail.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/raw/rangycore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/raw/rangyserializer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/raw/readpage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/anim/right_in.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/anim/right_out.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/layout/selection_drag_layer.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/raw/setting.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/anim/shrink_from_bottom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/anim/shrink_from_bottomleft_to_topright.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/anim/shrink_from_bottomright_to_topleft.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/anim/shrink_from_top.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/anim/shrink_from_topleft_to_bottomright.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/anim/shrink_from_topright_to_bottomleft.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/raw/sindex.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/raw/ssetting.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/raw/stoc.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/values/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/EPUB_UI/res/raw/toc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/ui/BookshelfActivity.java" afterPath="$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/ui/BookshelfActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/DownloadEngine.java" afterPath="$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/DownloadEngine.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleBookshelf.iml" afterPath="$PROJECT_DIR$/SimpleBookshelf.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/book.xml" afterPath="$PROJECT_DIR$/res/layout/book.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.properties" afterPath="$PROJECT_DIR$/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="SimpleBookshelf.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -80,14 +228,8 @@
       <file leaf-file-name="RequestBase.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/network/RequestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="85" column="0" selection-start="2452" selection-end="2452" vertical-scroll-proportion="0.0" vertical-offset="1413" max-vertical-offset="2844">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2057#2058#0" expanded="true" />
-                <element signature="e#2077#2078#0" expanded="true" />
-                <element signature="e#2264#4219#0" expanded="true" />
-                <element signature="e#4214#4215#0" expanded="true" />
-              </folding>
+            <state line="85" column="0" selection-start="2452" selection-end="2452" vertical-scroll-proportion="0.0" vertical-offset="1530" max-vertical-offset="2844">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -95,34 +237,16 @@
       <file leaf-file-name="BookshelfActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/ui/BookshelfActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="199" column="0" selection-start="5977" selection-end="5977" vertical-scroll-proportion="0.0" vertical-offset="2955" max-vertical-offset="3996">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#5087#5435#0" expanded="true" />
-                <element signature="e#5430#5431#0" expanded="true" />
-                <element signature="e#5824#5849#0" expanded="true" />
-              </folding>
+            <state line="219" column="66" selection-start="6663" selection-end="6663" vertical-scroll-proportion="0.0" vertical-offset="3942" max-vertical-offset="4140">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BookshelfListAdapter.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/ui/BookshelfListAdapter.java">
+      <file leaf-file-name="BookViewActivity.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/ui/BookViewActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="12" selection-start="1081" selection-end="1081" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1242">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1747#1748#0" expanded="true" />
-                <element signature="e#1784#1785#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BookshelfApplication.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/BookshelfApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="384" selection-end="384" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468">
+            <state line="5" column="29" selection-start="170" selection-end="170" vertical-scroll-proportion="0.16759777" vertical-offset="0" max-vertical-offset="558">
               <folding />
             </state>
           </provider>
@@ -131,69 +255,62 @@
       <file leaf-file-name="BookView.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/ui/BookView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="0" selection-start="789" selection-end="789" vertical-scroll-proportion="0.0" vertical-offset="2484" max-vertical-offset="3168">
-              <folding>
-                <element signature="e#1511#1512#0" expanded="true" />
-                <element signature="e#1534#1535#0" expanded="true" />
-                <element signature="e#2258#2275#0" expanded="true" />
-                <element signature="e#2462#2478#0" expanded="true" />
-                <element signature="e#2552#2572#0" expanded="true" />
-                <element signature="e#2721#2734#0" expanded="true" />
-                <element signature="e#2821#2838#0" expanded="true" />
-                <element signature="e#2855#2869#0" expanded="true" />
-                <element signature="e#3534#3535#0" expanded="true" />
-                <element signature="e#3561#3562#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DownloadEngine.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/DownloadEngine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="83" column="53" selection-start="2518" selection-end="2518" vertical-scroll-proportion="2.2533937" vertical-offset="0" max-vertical-offset="3546">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="0" selection-start="1141" selection-end="1141" vertical-scroll-proportion="0.0" vertical-offset="197" max-vertical-offset="774">
-              <folding>
-                <element signature="e#472#490#0" expanded="true" />
-                <element signature="e#643#661#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="book.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/book.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="649" selection-end="649" vertical-scroll-proportion="-15.346154" vertical-offset="15" max-vertical-offset="1386">
+            <state line="26" column="0" selection-start="789" selection-end="789" vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="3312">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bookshelf.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/bookshelf.xml">
+      <file leaf-file-name="DownloadEngine.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/DownloadEngine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="200" column="42" selection-start="5513" selection-end="5513" vertical-scroll-proportion="0.0" vertical-offset="2991" max-vertical-offset="3528">
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#5341#5342#0" expanded="false" />
+                <element signature="e#5364#5365#0" expanded="false" />
+                <element signature="e#5391#5392#0" expanded="false" />
+                <element signature="e#5412#5413#0" expanded="false" />
+                <element signature="e#5446#5447#0" expanded="false" />
+                <element signature="e#5474#5475#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bookview.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/bookview.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="34" selection-start="284" selection-end="292" vertical-scroll-proportion="-4.8461537" vertical-offset="0" max-vertical-offset="342">
+              <folding />
+            </state>
+          </provider>
           <provider editor-type-id="android-designer">
             <state />
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="book.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/book.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="36" selection-start="1319" selection-end="1319" vertical-scroll-proportion="-27.0" vertical-offset="0" max-vertical-offset="882">
-              <folding>
-                <element signature="e#973#988#0" expanded="true" />
-              </folding>
+            <state line="26" column="47" selection-start="775" selection-end="775" vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="1386">
+              <folding />
             </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bookshelf.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/bookshelf.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="36" selection-start="1319" selection-end="1319" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="882">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
           </provider>
         </entry>
       </file>
@@ -203,6 +320,9 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -220,12 +340,15 @@
         <option value="$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/network/BookshelfRequest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/network/RequestBase.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/model/Bookshelf.java" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/res/layout/book.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/ui/BookView.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/ui/BookshelfListAdapter.java" />
+        <option value="$PROJECT_DIR$/res/layout/book.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/ui/BookActivity.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/DownloadEngine.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/ui/BookshelfActivity.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/ui/BookshelfListAdapter.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/res/layout/bookview.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/ui/BookViewActivity.java" />
       </list>
     </option>
   </component>
@@ -235,7 +358,7 @@
     <option name="width" value="1924" />
     <option name="height" value="1052" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -247,6 +370,11 @@
   </component>
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectStructureProblems">
+    <ignored-problems>
+      <problem id="invalid-module-dependency(module:SimpleBookshelf,EPUB_UI)" />
+    </ignored-problems>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -261,6 +389,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -283,190 +413,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleBookshelf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleBookshelf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleBookshelf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleBookshelf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleBookshelf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleBookshelf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleBookshelf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleBookshelf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleBookshelf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleBookshelf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleBookshelf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleBookshelf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleBookshelf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="network" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleBookshelf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleBookshelf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleBookshelf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="model" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleBookshelf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleBookshelf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleBookshelf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleBookshelf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -477,7 +425,7 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="LayoutCode.rearrangeEntriesJava" value="true" />
-    <property name="options.lastSelected" value="editor.preferences.appearance" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -485,18 +433,20 @@
     <property name="OverrideImplement.overriding.sorted" value="false" />
     <property name="LayoutCode.rearrangeEntriesXML" value="false" />
     <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/appcompat/libs/android-support-v7-appcompat.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/EPUB_UI/libs/GoogleAdMobAdsSdk-6.1.0.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="PHILIPS W732" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="AVD4.4" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="cb0db8a6" />
     <property name="SearchEverywhereHistory" value="stop" />
     <property name="DEBUGGABLE_DEVICE" value="PHILIPS W732" />
     <property name="DEBUGGABLE_PROCESS" value="com.max77.SimpleBookshelf" />
     <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="AVD4.4" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -698,28 +648,28 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="-3" width="1924" height="1052" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942432" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32889125" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17237687" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17152104" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23768736" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3961456" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30990416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15654951" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -729,31 +679,31 @@
     </layout>
     <layout-to-restore>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30990416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15654951" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942432" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17237687" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32889125" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17152104" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23768736" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3961456" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -781,63 +731,67 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/model/Book.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/DownloadEngine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1332">
+        <state line="176" column="34" selection-start="4911" selection-end="4911" vertical-scroll-proportion="0.0" vertical-offset="3168" max-vertical-offset="3564">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
-            <element signature="e#716#717#0" expanded="true" />
-            <element signature="e#750#751#0" expanded="true" />
-            <element signature="e#765#766#0" expanded="true" />
-            <element signature="e#794#795#0" expanded="true" />
-            <element signature="e#814#815#0" expanded="true" />
-            <element signature="e#853#854#0" expanded="true" />
-            <element signature="e#874#875#0" expanded="true" />
-            <element signature="e#905#906#0" expanded="true" />
-            <element signature="e#927#928#0" expanded="true" />
-            <element signature="e#970#971#0" expanded="true" />
-            <element signature="e#995#996#0" expanded="true" />
-            <element signature="e#1027#1028#0" expanded="true" />
-            <element signature="e#1050#1051#0" expanded="true" />
-            <element signature="e#1409#1410#0" expanded="true" />
-            <element signature="e#1437#1438#0" expanded="true" />
-            <element signature="e#1472#1473#0" expanded="true" />
-            <element signature="e#1498#1499#0" expanded="true" />
-            <element signature="e#1549#1550#0" expanded="true" />
-            <element signature="e#1582#1583#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#5341#5342#0" expanded="false" />
+            <element signature="e#5364#5365#0" expanded="false" />
+            <element signature="e#5391#5392#0" expanded="false" />
+            <element signature="e#5412#5413#0" expanded="false" />
+            <element signature="e#5446#5447#0" expanded="false" />
+            <element signature="e#5474#5475#0" expanded="false" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="517" selection-end="517" vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="792">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/book.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="47" selection-start="775" selection-end="775" vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="1386">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/bookshelf.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="36" selection-start="1319" selection-end="1319" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="882">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/model/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1332" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/model/Bookshelf.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="486">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#743#749#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="10" column="0" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="486" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/network/BookshelfRequest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="73" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="468">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="3" column="73" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="468" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/ui/BookshelfActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="0" selection-start="984" selection-end="984" vertical-scroll-proportion="0.0" vertical-offset="504" max-vertical-offset="1404">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#5087#5435#0" expanded="true" />
-            <element signature="e#5430#5431#0" expanded="true" />
-            <element signature="e#5824#5849#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -851,126 +805,72 @@
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="36" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="684">
-          <folding>
-            <element signature="e#472#490#0" expanded="true" />
-            <element signature="e#643#661#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/bookshelf.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="30" selection-start="316" selection-end="316" vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="360">
-          <folding>
-            <element signature="e#973#988#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/model/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1332">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
-            <element signature="e#716#717#0" expanded="true" />
-            <element signature="e#750#751#0" expanded="true" />
-            <element signature="e#765#766#0" expanded="true" />
-            <element signature="e#794#795#0" expanded="true" />
-            <element signature="e#814#815#0" expanded="true" />
-            <element signature="e#853#854#0" expanded="true" />
-            <element signature="e#874#875#0" expanded="true" />
-            <element signature="e#905#906#0" expanded="true" />
-            <element signature="e#927#928#0" expanded="true" />
-            <element signature="e#970#971#0" expanded="true" />
-            <element signature="e#995#996#0" expanded="true" />
-            <element signature="e#1027#1028#0" expanded="true" />
-            <element signature="e#1050#1051#0" expanded="true" />
-            <element signature="e#1409#1410#0" expanded="true" />
-            <element signature="e#1437#1438#0" expanded="true" />
-            <element signature="e#1472#1473#0" expanded="true" />
-            <element signature="e#1498#1499#0" expanded="true" />
-            <element signature="e#1549#1550#0" expanded="true" />
-            <element signature="e#1582#1583#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="12" column="0" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1332" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/model/Bookshelf.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="486">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#743#749#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="10" column="0" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="486" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/network/BookshelfRequest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="73" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="468">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="3" column="73" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="468" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/ui/BookshelfActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="66" column="58" selection-start="1824" selection-end="1824" vertical-scroll-proportion="0.0" vertical-offset="1188" max-vertical-offset="1296">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#5087#5435#0" expanded="true" />
-            <element signature="e#5430#5431#0" expanded="true" />
-            <element signature="e#5824#5849#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="36" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="684">
-          <folding>
-            <element signature="e#472#490#0" expanded="true" />
-            <element signature="e#643#661#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/bookshelf.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="30" selection-start="316" selection-end="316" vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="360">
-          <folding>
-            <element signature="e#973#988#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/octo/android/robospice/robospice/1.4.11/robospice-1.4.11.jar!/com/octo/android/robospice/SpiceManager.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="21" selection-start="3791" selection-end="3791" vertical-scroll-proportion="0.0" vertical-offset="764" max-vertical-offset="3420">
-          <folding />
-        </state>
+        <state line="60" column="21" selection-start="3791" selection-end="3791" vertical-scroll-proportion="0.0" vertical-offset="764" max-vertical-offset="3420" />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Development/android-sdk/sources/android-19/java/util/concurrent/BlockingQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="140" column="69" selection-start="5508" selection-end="5508" vertical-scroll-proportion="0.30508474" vertical-offset="2160" max-vertical-offset="6264">
-          <folding />
-        </state>
+        <state line="140" column="69" selection-start="5508" selection-end="5508" vertical-scroll-proportion="0.30508474" vertical-offset="2160" max-vertical-offset="6264" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/octo/android/robospice/robospice/1.4.11/robospice-1.4.11-sources.jar!/com/octo/android/robospice/SpiceManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="483" column="27" selection-start="21702" selection-end="21702" vertical-scroll-proportion="0.393736" vertical-offset="7388" max-vertical-offset="23094">
-          <folding />
-        </state>
+        <state line="483" column="27" selection-start="21702" selection-end="21702" vertical-scroll-proportion="0.393736" vertical-offset="7388" max-vertical-offset="23094" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -982,187 +882,92 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/model/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="32" selection-start="672" selection-end="672" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1602">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
-            <element signature="e#716#717#0" expanded="true" />
-            <element signature="e#750#751#0" expanded="true" />
-            <element signature="e#765#766#0" expanded="true" />
-            <element signature="e#794#795#0" expanded="true" />
-            <element signature="e#814#815#0" expanded="true" />
-            <element signature="e#853#854#0" expanded="true" />
-            <element signature="e#874#875#0" expanded="true" />
-            <element signature="e#905#906#0" expanded="true" />
-            <element signature="e#927#928#0" expanded="true" />
-            <element signature="e#970#971#0" expanded="true" />
-            <element signature="e#995#996#0" expanded="true" />
-            <element signature="e#1027#1028#0" expanded="true" />
-            <element signature="e#1050#1051#0" expanded="true" />
-            <element signature="e#1409#1410#0" expanded="true" />
-            <element signature="e#1437#1438#0" expanded="true" />
-            <element signature="e#1472#1473#0" expanded="true" />
-            <element signature="e#1498#1499#0" expanded="true" />
-            <element signature="e#1549#1550#0" expanded="true" />
-            <element signature="e#1582#1583#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="28" column="32" selection-start="672" selection-end="672" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1602" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/octo/android/robospice/robospice-ui-spicelist/1.4.11/robospice-ui-spicelist-1.4.11-sources.jar!/com/octo/android/robospice/spicelist/simple/BitmapSpiceService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="371" selection-end="371" vertical-scroll-proportion="0.08135593" vertical-offset="0" max-vertical-offset="885">
-          <folding />
-        </state>
+        <state line="9" column="13" selection-start="371" selection-end="371" vertical-scroll-proportion="0.08135593" vertical-offset="0" max-vertical-offset="885" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/octo/android/robospice/robospice-ui-spicelist/1.4.11/robospice-ui-spicelist-1.4.11-sources.jar!/com/octo/android/robospice/spicelist/SpiceListItemView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="17" selection-start="585" selection-end="585" vertical-scroll-proportion="0.28474575" vertical-offset="0" max-vertical-offset="885">
-          <folding />
-        </state>
+        <state line="14" column="17" selection-start="585" selection-end="585" vertical-scroll-proportion="0.28474575" vertical-offset="0" max-vertical-offset="885" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/octo/android/robospice/robospice-ui-spicelist/1.4.11/robospice-ui-spicelist-1.4.11-sources.jar!/com/octo/android/robospice/spicelist/simple/SpiceArrayAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="58" selection-start="1125" selection-end="1125" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="792">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
+        <state line="24" column="58" selection-start="1125" selection-end="1125" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="792" />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Development/android-sdk/sources/android-19/android/widget/ArrayAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="13" selection-start="1860" selection-end="1860" vertical-scroll-proportion="-0.8870056" vertical-offset="1163" max-vertical-offset="8856">
-          <folding />
-        </state>
+        <state line="46" column="13" selection-start="1860" selection-end="1860" vertical-scroll-proportion="-0.8870056" vertical-offset="1163" max-vertical-offset="8856" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/octo/android/robospice/robospice-ui-spicelist/1.4.11/robospice-ui-spicelist-1.4.11-sources.jar!/com/octo/android/robospice/spicelist/BaseSpiceArrayAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="63" selection-start="1907" selection-end="1907" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="6822">
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#2901#2909#0" expanded="false" />
-            <element signature="e#3918#3919#0" expanded="false" />
-            <element signature="e#3972#3973#0" expanded="false" />
-            <element signature="e#11521#11551#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="45" column="63" selection-start="1907" selection-end="1907" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="6822" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/octo/android/robospice/robospice-ui-spicelist/1.4.11/robospice-ui-spicelist-1.4.11-sources.jar!/com/octo/android/robospice/spicelist/simple/BitmapSpiceManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="19" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468">
-          <folding />
-        </state>
+        <state line="7" column="19" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/bookshelf.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="36" selection-start="1319" selection-end="1319" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="882">
+          <folding />
+        </state>
+      </provider>
       <provider editor-type-id="android-designer">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="36" selection-start="1319" selection-end="1319" vertical-scroll-proportion="-27.0" vertical-offset="0" max-vertical-offset="882">
-          <folding>
-            <element signature="e#973#988#0" expanded="true" />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Development/android-sdk/sources/android-19/com/android/internal/os/ZygoteInit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="13590">
-          <folding>
-            <element signature="e#0#27389#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="13590" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/android/spring-android-rest-template/1.0.1.RELEASE/spring-android-rest-template-1.0.1.RELEASE.jar!/org/springframework/http/client/InterceptingClientHttpRequest.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="66" selection-start="1553" selection-end="1553" vertical-scroll-proportion="-17.28" vertical-offset="0" max-vertical-offset="576">
-          <folding />
-        </state>
+        <state line="25" column="66" selection-start="1553" selection-end="1553" vertical-scroll-proportion="-17.28" vertical-offset="0" max-vertical-offset="576" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/model/Bookshelf.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="36" selection-start="638" selection-end="638" vertical-scroll-proportion="0.0" vertical-offset="325" max-vertical-offset="810">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#743#749#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="30" column="36" selection-start="638" selection-end="638" vertical-scroll-proportion="0.0" vertical-offset="325" max-vertical-offset="810" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/network/BookshelfRequest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="589" selection-end="589" vertical-scroll-proportion="1.2336448" vertical-offset="0" max-vertical-offset="558">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="22" column="0" selection-start="589" selection-end="589" vertical-scroll-proportion="1.2336448" vertical-offset="0" max-vertical-offset="558" />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Development/android-sdk/sources/android-19/android/database/DatabaseUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="165" column="0" selection-start="6626" selection-end="6626" vertical-scroll-proportion="0.33333334" vertical-offset="2161" max-vertical-offset="25236">
-          <folding />
-        </state>
+        <state line="165" column="0" selection-start="6626" selection-end="6626" vertical-scroll-proportion="0.33333334" vertical-offset="2161" max-vertical-offset="25236" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/octo/android/robospice/robospice/1.4.11/robospice-1.4.11-sources.jar!/com/octo/android/robospice/request/DefaultRequestRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="135" column="0" selection-start="6405" selection-end="6405" vertical-scroll-proportion="0.0" vertical-offset="2012" max-vertical-offset="4590">
-          <folding />
-        </state>
+        <state line="135" column="0" selection-start="6405" selection-end="6405" vertical-scroll-proportion="0.0" vertical-offset="2012" max-vertical-offset="4590" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/octo/android/robospice/robospice/1.4.11/robospice-1.4.11-sources.jar!/com/octo/android/robospice/request/notifier/DefaultRequestListenerNotifier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="179" column="0" selection-start="7286" selection-end="7286" vertical-scroll-proportion="0.46745563" vertical-offset="2830" max-vertical-offset="3168">
-          <folding />
-        </state>
+        <state line="179" column="0" selection-start="7286" selection-end="7286" vertical-scroll-proportion="0.46745563" vertical-offset="2830" max-vertical-offset="3168" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/octo/android/robospice/robospice/1.4.11/robospice-1.4.11-sources.jar!/com/octo/android/robospice/request/simple/BitmapRequest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="11" selection-start="2291" selection-end="2291" vertical-scroll-proportion="-2.5711422" vertical-offset="2327" max-vertical-offset="2826">
-          <folding />
-        </state>
+        <state line="74" column="11" selection-start="2291" selection-end="2291" vertical-scroll-proportion="-2.5711422" vertical-offset="2327" max-vertical-offset="2826" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/network/RequestBase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="85" column="0" selection-start="2452" selection-end="2452" vertical-scroll-proportion="0.0" vertical-offset="1413" max-vertical-offset="2844">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2057#2058#0" expanded="true" />
-            <element signature="e#2077#2078#0" expanded="true" />
-            <element signature="e#2264#4219#0" expanded="true" />
-            <element signature="e#4214#4215#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="1141" selection-end="1141" vertical-scroll-proportion="0.0" vertical-offset="197" max-vertical-offset="774">
-          <folding>
-            <element signature="e#472#490#0" expanded="true" />
-            <element signature="e#643#661#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/book.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="649" selection-end="649" vertical-scroll-proportion="-15.346154" vertical-offset="15" max-vertical-offset="1386">
           <folding />
         </state>
       </provider>
@@ -1170,48 +975,19 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/ui/BookView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="0" selection-start="789" selection-end="789" vertical-scroll-proportion="0.0" vertical-offset="2484" max-vertical-offset="3168">
-          <folding>
-            <element signature="e#1511#1512#0" expanded="true" />
-            <element signature="e#1534#1535#0" expanded="true" />
-            <element signature="e#2258#2275#0" expanded="true" />
-            <element signature="e#2462#2478#0" expanded="true" />
-            <element signature="e#2552#2572#0" expanded="true" />
-            <element signature="e#2721#2734#0" expanded="true" />
-            <element signature="e#2821#2838#0" expanded="true" />
-            <element signature="e#2855#2869#0" expanded="true" />
-            <element signature="e#3534#3535#0" expanded="true" />
-            <element signature="e#3561#3562#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Development/android-sdk/sources/android-19/android/app/ActivityThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3998" column="0" selection-start="166911" selection-end="166911" vertical-scroll-proportion="0.72762644" vertical-offset="69437" max-vertical-offset="88056">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/ui/BookshelfActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="199" column="0" selection-start="5977" selection-end="5977" vertical-scroll-proportion="0.0" vertical-offset="2955" max-vertical-offset="3996">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#5087#5435#0" expanded="true" />
-            <element signature="e#5430#5431#0" expanded="true" />
-            <element signature="e#5824#5849#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="3998" column="0" selection-start="166911" selection-end="166911" vertical-scroll-proportion="0.72762644" vertical-offset="69437" max-vertical-offset="88056" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/ui/BookshelfListAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="12" selection-start="1081" selection-end="1081" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1242">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1747#1748#0" expanded="true" />
-            <element signature="e#1784#1785#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1222,12 +998,80 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/book.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="47" selection-start="775" selection-end="775" vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="1386">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/ui/BookshelfActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="219" column="66" selection-start="6663" selection-end="6663" vertical-scroll-proportion="0.0" vertical-offset="2989" max-vertical-offset="3708">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/EPUB_UI/libs/epub_ui.jar!/com/anfengde/epub/ui/BookView.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="208" selection-end="208" vertical-scroll-proportion="-1.8125" vertical-offset="1036" max-vertical-offset="2736">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="40" selection-start="268" selection-end="268" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/DownloadEngine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="53" selection-start="2518" selection-end="2518" vertical-scroll-proportion="2.2533937" vertical-offset="0" max-vertical-offset="3546">
+        <state line="200" column="42" selection-start="5513" selection-end="5513" vertical-scroll-proportion="0.0" vertical-offset="2863" max-vertical-offset="3690">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#5341#5342#0" expanded="false" />
+            <element signature="e#5364#5365#0" expanded="false" />
+            <element signature="e#5391#5392#0" expanded="false" />
+            <element signature="e#5412#5413#0" expanded="false" />
+            <element signature="e#5446#5447#0" expanded="false" />
+            <element signature="e#5474#5475#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/EPUB_UI/libs/epub_ui.jar!/com/anfengde/epub/ui/EPubWebView.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="163" selection-end="163" vertical-scroll-proportion="25.4" vertical-offset="725" max-vertical-offset="2682">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/bookview.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="34" selection-start="284" selection-end="292" vertical-scroll-proportion="-4.8461537" vertical-offset="0" max-vertical-offset="342">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/EPUB_UI/libs/epub_ui.jar!/com/anfengde/epub/core/value/Constants.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="41" selection-start="224" selection-end="224" vertical-scroll-proportion="0.2109375" vertical-offset="0" max-vertical-offset="512">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/max77/SimpleBookshelf/ui/BookViewActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="29" selection-start="170" selection-end="170" vertical-scroll-proportion="0.16759777" vertical-offset="0" max-vertical-offset="558">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1271,7 +1115,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.7</last-edited>
+          <last-edited>Android 2.3.3 Google APIs</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1295,7 +1139,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: com.octo.android.robospice:robospice-cache:1.4.11</last-edited>
+          <last-edited>GoogleAdMobAdsSdk-6.1.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/lib/EPUB_UI/EPUB_UI.iml" filepath="$PROJECT_DIR$/lib/EPUB_UI/EPUB_UI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EPUB_SDK/android/lib/EPUB_UI/EPUB_UI.iml" filepath="$PROJECT_DIR$/../EPUB_SDK/android/lib/EPUB_UI/EPUB_UI.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleBookshelf.iml" filepath="$PROJECT_DIR$/SimpleBookshelf.iml" />
     </modules>
   </component>

@@ -1,6 +1,7 @@
 package com.max77.SimpleBookshelf.ui;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.os.Handler;
@@ -159,11 +160,13 @@ public class BookshelfActivity extends Activity {
 	private void startPeriodicUpdate() {
 		stopPeriodicUpdate();
 
+		Ln.i("List update started");
+
 		mPeriodicUpdateHandler = new Handler();
 		mPeriodicUpdateHandler.post(new Runnable() {
 			@Override
 			public void run() {
-				Ln.i("List update started");
+				Ln.i("List update");
 
 				mDownloadEngine.updateDownloadState(null);
 				lvBookshelf.getAdapter().notifyDataSetChanged();
@@ -180,10 +183,10 @@ public class BookshelfActivity extends Activity {
 	 * Останавливает периодическое обновление списка
 	 */
 	private void stopPeriodicUpdate() {
-		if (mPeriodicUpdateHandler != null)
+		if (mPeriodicUpdateHandler != null) {
 			mPeriodicUpdateHandler.removeCallbacksAndMessages(null);
-
-		Ln.i("List update stopped");
+			Ln.i("List update stopped");
+		}
 	}
 
 	private class BookshelfListener implements RequestListener<Bookshelf> {
@@ -210,7 +213,12 @@ public class BookshelfActivity extends Activity {
 
 		@Override
 		public void onReadBook(BookView view) {
+			String url = view.getData().mBook.getBookFileUrl();
+			String path = mDownloadEngine.getDownloadInfo(url).getSavedFilePath();
 
+			Intent intent = new Intent(BookshelfActivity.this, BookViewActivity.class);
+			intent.putExtra(BookViewActivity.EXTRA_BOOK_PATH, path);
+			startActivity(intent);
 		}
 	}
 }

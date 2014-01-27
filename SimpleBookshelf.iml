@@ -32,6 +32,8 @@
     <orderEntry type="library" name="Maven: com.squareup.okhttp:okhttp:1.3.0" level="project" />
     <orderEntry type="library" name="Maven: com.squareup.okhttp:okhttp-protocols:1.3.0" level="project" />
     <orderEntry type="library" name="Maven: com.octo.android.robospice:robospice-ui-spicelist:1.4.11" level="project" />
+    <orderEntry type="module" module-name="EPUB_UI" />
+    <orderEntry type="library" name="epub_sdk" level="project" />
   </component>
 </module>
 

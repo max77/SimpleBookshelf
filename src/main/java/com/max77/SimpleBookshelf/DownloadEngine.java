@@ -66,7 +66,7 @@ public class DownloadEngine {
 	public void addDownload(String url) {
 		long id = mDownloadManager.enqueue(new DownloadManager.Request(Uri.parse(url)));
 		mUrlToDownloadIdMap.put(url, id);
-		mDownloadIdToDownloadInfoMap.put(id, new DownloadInfo(DownloadManager.STATUS_PENDING, 0, -1));
+		mDownloadIdToDownloadInfoMap.put(id, new DownloadInfo(DownloadManager.STATUS_PENDING, 0, -1, null));
 	}
 
 	/**
@@ -86,6 +86,7 @@ public class DownloadEngine {
 			int statusIdx = c.getColumnIndex(DownloadManager.COLUMN_STATUS);
 			int sizeIdx = c.getColumnIndex(DownloadManager.COLUMN_TOTAL_SIZE_BYTES);
 			int currSizeIdx = c.getColumnIndex(DownloadManager.COLUMN_BYTES_DOWNLOADED_SO_FAR);
+			int pathIdx = c.getColumnIndex(DownloadManager.COLUMN_LOCAL_FILENAME);
 
 			while (c.moveToNext()) {
 				long id = c.getLong(idIdx);
@@ -93,7 +94,8 @@ public class DownloadEngine {
 				long size = c.getLong(sizeIdx);
 				long currSize = c.getLong(currSizeIdx);
 
-				mDownloadIdToDownloadInfoMap.put(id, new DownloadInfo(status, size, currSize));
+				String path = (status == DownloadManager.STATUS_SUCCESSFUL ? c.getString(pathIdx) : null);
+				mDownloadIdToDownloadInfoMap.put(id, new DownloadInfo(status, size, currSize, path));
 			}
 
 			c.close();
@@ -175,11 +177,13 @@ public class DownloadEngine {
 		private int mStatus;
 		private long mSize;
 		private long mCurrentSize;
+		private String mSavedFilePath;
 
-		DownloadInfo(int status, long size, long currentSize) {
+		DownloadInfo(int status, long size, long currentSize, String savedFilePath) {
 			mStatus = status;
 			mSize = size;
 			mCurrentSize = currentSize;
+			mSavedFilePath = savedFilePath;
 		}
 
 		public int getStatus() {
@@ -192,6 +196,10 @@ public class DownloadEngine {
 
 		public long getCurrentSize() {
 			return mCurrentSize;
+		}
+
+		public String getSavedFilePath() {
+			return mSavedFilePath;
 		}
 	}
 }
