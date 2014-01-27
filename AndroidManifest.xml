@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.max77.SimpleBookshelf"
+          android:versionCode="1"
+          android:versionName="1.0">
+
+	<uses-sdk
+			android:targetSdkVersion="19"
+			android:minSdkVersion="9"/>
+
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+	<uses-permission android:name="android.permission.INTERNET"/>
+
+	<application
+			android:label="@string/app_name"
+			android:icon="@drawable/ic_launcher"
+			android:name=".BookshelfApplication">
+		<activity
+				android:name=".ui.BookshelfActivity"
+				android:label="@string/app_name">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN"/>
+				<category android:name="android.intent.category.LAUNCHER"/>
+			</intent-filter>
+		</activity>
+
+		<!-- Сервис для загрузки списка книг -->
+		<service
+				android:name="com.octo.android.robospice.JacksonSpringAndroidSpiceService"
+				android:exported="false"/>
+
+		<!-- Сервис для загрузки картинок -->
+		<service
+				android:name="com.octo.android.robospice.spicelist.okhttp.OkHttpBitmapSpiceService"
+				android:exported="false"/>
+	</application>
+</manifest>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:paddingTop="5dp"
+		android:paddingBottom="5dp"
+		xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<ImageView
+			android:id="@+id/ivThumbnail"
+			android:layout_width="80dp"
+			android:layout_height="120dp"
+			android:scaleType="centerCrop"/>
+
+	<ImageView
+			android:id="@+id/ivContentMark"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_alignRight="@id/ivThumbnail"
+			android:layout_alignTop="@id/ivThumbnail"
+			android:visibility="gone"/>
+
+	<LinearLayout
+			android:orientation="vertical"
+			android:layout_width="0dp"
+			android:layout_height="0dp"
+			android:layout_toRightOf="@id/ivThumbnail"
+			android:layout_marginLeft="10dp"
+			android:layout_marginRight="10dp"
+			android:layout_alignParentRight="true"
+			android:layout_alignParentTop="true"
+			android:layout_alignBottom="@id/ivThumbnail"
+			android:gravity="center">
+
+		<TextView
+				android:id="@+id/tvTitle"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+				android:layout_gravity="center_horizontal"/>
+
+		<Button
+				android:id="@+id/btnAction"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"/>
+
+		<ProgressBar
+				android:id="@+id/pbDownload"
+				style="?android:attr/progressBarStyleHorizontal"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center_horizontal"
+				android:visibility="gone"/>
+
+		<TextView
+				android:id="@+id/tvMessage"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center_horizontal"
+				android:visibility="gone"/>
+
+	</LinearLayout>
+
+	<TextView
+			android:id="@+id/tvContent"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_below="@id/ivThumbnail"
+			android:padding="5dp"
+			android:visibility="gone"/>
+</RelativeLayout>

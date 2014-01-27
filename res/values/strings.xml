@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">SimpleBookshelf</string>
+	<string name="download">Скачать...</string>
+	<string name="pending">Ожидание...</string>
+	<string name="downloading">Загрузка...</string>
+	<string name="shrink">-</string>
+	<string name="expand">+</string>
+	<string name="error">Ошибка загрузки. Попробуйте еще раз.</string>
+	<string name="read">Читать</string>
+	<string name="refresh">Обновить</string>
+	<string name="retry">Еще раз...</string>
+</resources>
